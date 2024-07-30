@@ -12,7 +12,7 @@ export default function Page() {
       <div className="flex-1 overflow-auto p-4 sm:p-6 flex flex-col gap-4">
         <h1 className="text-2xl font-bold">Using Complex Passwords</h1>
         <p>
-          In today's digital age, it is more important than ever to use complex
+          In todays digital age, it is more important than ever to use complex
           passwords to protect our online accounts and sensitive information. A
           complex password is one that is difficult for others to guess or
           crack, making it a crucial component of our overall cybersecurity
